@@ -27,7 +27,7 @@ Total Deaths: 43M
 Total Recovered Cases: 388M
 Total Active Cases: 397M
 Case Fatality Rate (CFR%): 5.24%
-Recovery Rate: 47%
+Recovery Rate: 47% 
 These metrics are dynamically updated based on the selected country/region and time period filters.
 
 2. Line Chart (COVID-19 Trends Over Time)
