@@ -10,7 +10,7 @@ It helps users such as health organizations, researchers, policymakers, and the 
 ## 📊 Key Metrics and KPIs Tracked in the Dashboard
 The dashboard tracks the following key performance indicators (KPIs) at a global and regional level:
 
-Total Confirmed Cases
+Total Confirmed Cases  
 Total Deaths
 Total Recovered Cases
 Total Active Cases
@@ -62,7 +62,7 @@ Users can hover over countries to see specific data points.
 ## ⚙️ Data Sources and Processing
 The dashboard uses trusted and publicly available datasets from sources such as:
 World Health Organization (WHO)
-Johns Hopkins University
+Johns Hopkins University 
 Our World in Data
 Data was cleaned, transformed, and loaded into Power BI using Power Query.
 
